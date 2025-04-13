@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+chroma_langchain_db1/
+.env
+venv/
+*.log
